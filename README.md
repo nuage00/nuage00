@@ -6,7 +6,7 @@ I'm started to coding in 2018 with web development. Cuz u know, html and css are
 
 - HTML
 - CSS
-- C# (Level = Student)
+- C# (Student)
 - JavaScript
 - Lua (Meh)
 
