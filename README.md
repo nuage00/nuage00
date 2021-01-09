@@ -4,8 +4,6 @@ I'm started to coding in 2018 with web development. Cuz u know, html and css are
 
 ### Which Languages Does Nuage Knows?
 
-- HTML
-- CSS
 - C# (Student)
 - JavaScript
 - Lua (Meh)
