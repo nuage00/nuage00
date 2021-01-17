@@ -1,4 +1,4 @@
-### Nuage's github stats
+### Nuage's GitHub Stats
 
 [![Nuage's github stats](https://github-readme-stats.vercel.app/api?username=nuage00&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
