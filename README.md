@@ -4,7 +4,7 @@
 
 ### Who Is Nuage?
 
-I'm started to coding in 2018 with web development. Cuz u know, html and css are very simple. In 2019 I don't do something interested coding. I'm started to do something different, like learning JavaScript and C#. I'm continuing to learn both. You will see in my repos. 
+I'm started to coding in 2018 with web development. Cuz u know, html and css are very simple. In 2019 I don't do something related coding. I'm started to do something different, like learning JavaScript and C#. I'm continuing to learn both. You will see in my repos. 
 
 ### Which Languages Does Nuage Knows?
 
