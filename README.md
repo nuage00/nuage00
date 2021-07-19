@@ -1,6 +1,6 @@
 ### Nuage's GitHub Stats
 
-[!(https://github-readme-stats.vercel.app/api?username=nuage00&show_icons=true&theme=merko)]
+[![Nuage's Github stats](https://github-readme-stats.vercel.app/api?username=nuage00&show_icons=true&theme=merko)]
 
 ### Who Is Nuage?
 
