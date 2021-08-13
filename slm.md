@@ -1,1 +1,0 @@
-Slm İşte Ben,
