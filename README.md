@@ -8,14 +8,10 @@ I'm started to coding in 2018 with web development. Cuz u know, html and css are
 
 ### Which Languages Does Nuage Knows?
 
-- C# (Student)
+- C# (Meh)
 - JavaScript
-- Lua (Meh)
+- Web Languages
 
 ### How You Can Contact With Nuage?
 
-- With Sending A Friend Request To My Discord Account. My Account : Nuage#3879
-- With Joining My Discord Server. My Discord Server : Soon :)
-
-### Note
-If You Have A Sugesstion For Here Or For A New Project Contact Me Please :)
+- You cant atm.
